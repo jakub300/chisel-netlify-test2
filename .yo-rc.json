@@ -1,0 +1,13 @@
+{
+  "generator-chisel": {
+    "config": {
+      "name": "Chisel Netlify Test2",
+      "author": "Jakub Bogucki",
+      "projectType": "fe",
+      "nameSlug": "chisel-netlify-test2",
+      "nameCamel": "ChiselNetlifyTest2",
+      "chiselVersion": "0.15.0",
+      "has_jquery": false
+    }
+  }
+}
