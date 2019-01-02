@@ -8,6 +8,9 @@
       "nameCamel": "ChiselNetlifyTest2",
       "chiselVersion": "0.15.0",
       "has_jquery": false
-    }
+    },
+    "pages": [
+      "Index"
+    ]
   }
 }
